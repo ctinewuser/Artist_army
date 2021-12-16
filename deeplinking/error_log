@@ -1,0 +1,111 @@
+[06-Jan-2020 08:04:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php:1) in /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php on line 43
+[07-Jan-2020 00:10:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php:1) in /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php on line 61
+[07-Jan-2020 00:11:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php:1) in /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php on line 61
+[07-Jan-2020 00:11:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php:1) in /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php on line 61
+[07-Jan-2020 00:12:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php:1) in /home3/ctinf0eg/public_html/CTCC/luckto/deeplinking/success.php on line 61
+[02-Aug-2021 11:49:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:54:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:56:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:56:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:57:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 11:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:00:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:03:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:04:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:05:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 3
+[02-Aug-2021 12:14:38 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 64
+[02-Aug-2021 12:14:50 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 64
+[02-Aug-2021 12:14:58 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 64
+[02-Aug-2021 12:15:02 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 64
+[02-Aug-2021 12:15:05 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 64
+[02-Aug-2021 12:15:35 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home2/creatavv/public_html/CTCC/artist_army/deeplinking/artist_army.php on line 64
